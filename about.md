@@ -5,7 +5,7 @@ title: About
 
 Hello! My name is João Matos and I am a software developer from [Lisbon, Portugal](https://en.wikipedia.org/wiki/Lisbon).
 
-I work at [Xamarin](xamarin.com) on the runtime team, where I have the opportunity to contribute to the fanstatic [Mono](http://mono-project.com/) runtime, class libraries and [CppSharp](https://github.com/mono/CppSharp) projects.
+I work at [Xamarin](xamarin.com) on the runtime team, where I have the opportunity to contribute to the fantastic [Mono](http://mono-project.com/) runtime, class libraries and [CppSharp](https://github.com/mono/CppSharp) projects.
 
 Previously I've also worked at [Pathscale](http://www.pathscale.com/) contributing to the [LLVM](http://llvm.org/) and [Clang](http://clang.llvm.org/) projects.
 
